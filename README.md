@@ -1,4 +1,4 @@
-#Simple Website
+# Simple Website
 Static webpage for an engineering firm using HTML and CSS.
 
 First create a folder named "assets" and tranfer the folders
